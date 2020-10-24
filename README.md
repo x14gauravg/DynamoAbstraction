@@ -1,7 +1,6 @@
 # DynamoDB Database Helper using Enhanced Client
 
-DynamoDB Database Helper - refer to package com.ppe.db.helper.  
-Ignore other packages because those packages use code from Old DynamoDB CLient and DynamoMapper.  The "EHelper" class in package com.ppe.db.helper is the primary one with all functions for transactions, get, put and query.
+DynamoDB Database Helper - refer to package com.gauravg.dynamo.helper  The "EHelper" class in package com.gauravg.dynamo.helper is the primary one with all functions for transactions, get, put and query.
 
 I am using FakeCustomer class in the same package com.ppe.db.helper which has few annotations applied.  Some of these annotations are provided by Enhanced Client Library.  However, there are few which i have custom built.  These annotations are also part of package com.ppe.db.helper package.
 
